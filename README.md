@@ -39,4 +39,8 @@ streamlit run app.py
 
 ---
 
+Streamlit App URL:
+https://genai-resume-builder-pwyyewzfkfgkqsekgzfwjg.streamlit.app/
+ — Deployed using Streamlit
+
 ⭐ Built as part of an AI internship project.
